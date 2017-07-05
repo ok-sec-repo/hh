@@ -10,5 +10,5 @@
 # ECG, respiratory rate monitors
 | Name | TLDR | Year | Est Cost |
 | ---- | ---- | ---- | -------- |
-| [QardioCore](https://store.getqardio.com/products/qardiocore) | Comprehensive, chest strap ![Image](https://cdn.shopify.com/s/files/1/1380/3635/products/QC_2000x.jpg?v=1495180431) | Aug 2017 | $449 pre-order |
+| [QardioCore](https://store.getqardio.com/products/qardiocore) | Comprehensive, chest strap<br><img src="https://cdn.shopify.com/s/files/1/1380/3635/products/QC_2000x.jpg?v=1495180431" height=250 width=250> | Aug 2017 | $449 pre-order |
 
